@@ -4,7 +4,7 @@ public class Ceng15L
     {
         if(divisor == 0)
         {
-            return 0;
+            return null;
         }
         return dividend/divisor;
     }
